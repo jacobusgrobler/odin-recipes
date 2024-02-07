@@ -1,25 +1,61 @@
 * {
-    margin: 1px;
+    margin: 0px;
     padding: 0px;
+    
 }
 
-.h1
-.par
-.h2{
+html{
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 240, 243);
+}
+
+h1
+p
+h2{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:xx-large ;
     font-weight: 900;    
 }
-
-
+h3{
+    margin-top: 25px;
+    padding: 10px;
+}
+ul{
+    background-color: aliceblue;
+    margin-left: 680px;
+    margin-right: 680px;
+;}
+ol{
+    background-color: aliceblue;
+    margin-left: 650px;
+    margin-right: 650px;
+}
 
 li{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
-    color: rgb(197, 41, 41);
+    color: rgb(42, 10, 223);
+    padding: 3px 3px 3px 3px;
+    background-color: aliceblue;
+    border: 1px 1px 1px 1px;
+    
 }
 
 .images{
+    margin: 25px 0px 25px 0px;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid rgb(196, 196, 202);
+    background-color: aliceblue;
     height: auto;
     width: 400px;
 }
+
+.h1i{
+    margin-top: 100px;
+    padding: 30px;
+}
+
+
