@@ -27,7 +27,16 @@ ul{
     background-color: aliceblue;
     margin-left: 680px;
     margin-right: 680px;
-;}
+}
+.linksIndex{
+    font-family:"Impact", 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color: rgb(41, 29, 109);
+    font-size: large;
+    font-weight: 700;
+    padding: 10px;
+    border: 3px;
+    margin: 15px;
+}
 ol{
     background-color: aliceblue;
     margin-left: 650px;
@@ -37,7 +46,7 @@ ol{
 li{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
-    color: rgb(42, 10, 223);
+    color: rgb(41, 29, 109);
     padding: 3px 3px 3px 3px;
     background-color: aliceblue;
     border: 1px 1px 1px 1px;
